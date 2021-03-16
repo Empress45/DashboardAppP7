@@ -7,9 +7,10 @@ body {
     width: 100%;
     font-family: "Ubuntu", sans-serif;
     letter-spacing: 1px;
-    color: rgb(201, 112, 182);
+    color: rgb(224, 199, 219);
     text-shadow: 1px 1px 2px rgb(110, 7, 79);
 }
+
 
 /* Class Sections Setup */
 .traffic-header h3,
@@ -45,7 +46,14 @@ body {
 }
 
 h1 {
-    font-size: 20px;
+    font-size: 18px;
     margin-right: auto;
     margin-left: 10px;
+}
+
+h1,
+h2,
+h3 {
+    font-size: 20px;
+    color: white;
 }
