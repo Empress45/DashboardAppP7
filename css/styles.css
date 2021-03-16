@@ -29,7 +29,14 @@
 }
 
 .grid-header {
-    height: 50px;
+    height: 65px;
     background-color: rgb(173, 98, 98);
+    align-items: center;
+    grid-area: header;
+}
 
+h1 {
+    font-size: 20px;
+    margin-right: auto;
+    margin-left: 10px;
 }
