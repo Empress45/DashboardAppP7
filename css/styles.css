@@ -53,7 +53,11 @@ body {
 }
 
 
-
+.grid-nav {
+    grid-area: nav;
+    text-align: center;
+    background-color: rgb(235, 181, 181);
+}
 
 
 h1 {
