@@ -37,10 +37,10 @@ body {
 }
 
 .grid-header {
+    grid-area: header;
     height: 65px;
     background-color: rgb(173, 98, 98);
     align-items: center;
-    grid-area: header;
     display: flex;
     color: white;
 }
