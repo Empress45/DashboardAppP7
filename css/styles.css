@@ -46,9 +46,19 @@ body {
     color: white;
 }
 
+.grid-nav {
+    text-align: center;
+    background-color: rgb(235, 181, 181);
+    grid-area: nav;
+}
+
+
+
+
+
 h1 {
     font-size: 18px;
-    margin-right: auto;
+    flex-grow: 3;
     margin-left: 10px;
 }
 
