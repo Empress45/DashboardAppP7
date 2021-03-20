@@ -40,7 +40,7 @@ body {
     grid-area: header;
     height: 65px;
     width: 95vw;
-    background-color: #7477bf;
+    background-color: rgb(173, 98, 98);
     align-items: center;
     display: flex;
     color: white;
