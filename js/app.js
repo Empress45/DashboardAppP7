@@ -16,3 +16,6 @@ alertBanner.addEventListener('click' , e => {
 })
 
 // Alert Notifications 
+
+const bellNotification = document.getElementsByClassName("bell-icon")
+const 
