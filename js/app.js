@@ -34,3 +34,4 @@ closeBtn.addEventListener('click', () => {
 });
 
 const profile = document.getElementsByClassName("profile");
+const
