@@ -8,7 +8,11 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
+<<<<<<< HEAD
             "url": "http://localhost:5500",
+=======
+            "url": "http://localhost:8080",
+>>>>>>> 80eb905d7d431b37cd037a669bea285fabc0d1d5
             "webRoot": "${workspaceFolder}"
         }
     ]
