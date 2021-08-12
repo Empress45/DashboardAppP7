@@ -23,7 +23,7 @@ const greenDot = document.getElementById("green-dot");
 const closeBtn = document.getElementById("close-btn");
 
 bellNotification.addEventListener('click', () => {
-    if(headerAlert.style.display = 'none') {
+    if (headerAlert.style.display = 'none') {
         headerAlert.style.display = 'block';
     }
     greenDot.style.display = 'none';
@@ -32,3 +32,5 @@ bellNotification.addEventListener('click', () => {
 closeBtn.addEventListener('click', () => {
     headerAlert.style.display = 'none';
 });
+
+const profile = document.getElementsByClassName("profile");
